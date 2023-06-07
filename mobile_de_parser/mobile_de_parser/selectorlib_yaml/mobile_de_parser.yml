@@ -1,0 +1,9 @@
+selectors:
+  make:
+    css: "div.cBox-body.cBox-body--topResultitem div.headline-block span.h3"
+
+  model:
+    css: "div.cBox-body:nth-of-type(27) div.vehicle-data--ad-with-price-rating-label div:nth-of-type(1)"
+
+  price:
+    css: "div.cBox-body.cBox-body--topResultitem div.price-block span.h3"
